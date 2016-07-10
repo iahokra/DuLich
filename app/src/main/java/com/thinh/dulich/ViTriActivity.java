@@ -30,7 +30,7 @@ import draw.Direction;
 import model.DanhSachDiaDiem;
 import model.DiaDiem;
 
-
+//thử lần 2
 public class ViTriActivity extends AppCompatActivity {
 
     private GoogleMap mMap;
